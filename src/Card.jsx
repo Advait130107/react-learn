@@ -2,7 +2,12 @@ function Card({ name, image, description }) {
   return (
     <div className="card1">
       <div className="container">
-        <img className="img1" src={image} alt={name} />
+        <img
+          className="img1"
+          src={image}
+          alt={name}
+          onClick={() => window.open({ image })}
+        />
       </div>
 
       <div className="aboutimg1">
@@ -10,9 +15,7 @@ function Card({ name, image, description }) {
 
         <p>{description}</p>
 
-        <button className="button" onClick={() => learnMore(true)}>
-          Learn More
-        </button>
+        <button className="button">Learn More</button>
       </div>
     </div>
   );

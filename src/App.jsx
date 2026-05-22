@@ -16,35 +16,38 @@ function App() {
 
       <div className="cardcollection">
         <Card
-          name="name"
+          name="Name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
         <Card
-          name="name"
+          name="Name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
         <Card
-          name="name"
+          name="Name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
         <Card
-          name="name"
+          name="Name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
         <Card
-          name="name"
+          name="Name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
         <Card
-          name="name"
+          name="Name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
+      </div>
+      <div className="footer">
+        <p>Copyright 2024 Your Company. All rights reserved.</p>
       </div>
     </>
   );
