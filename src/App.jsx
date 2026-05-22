@@ -5,8 +5,10 @@ function App() {
   return (
     <>
       <div className="header">
-        <h3> About our Expert</h3>
-        <p> </p>
+        <h3>About Our Experts</h3>
+        <p>
+          Meet our talented professionals who help us build amazing experiences
+        </p>
       </div>
       <div className="cardcollection">
         <div className="card1">
@@ -41,8 +43,7 @@ function App() {
             <button className="button">Learn More</button>
           </div>
         </div>
-      </div>
-      <div className="cardcollection">
+
         <div className="card1">
           <div className="container">
             <img
@@ -75,8 +76,7 @@ function App() {
             <button className="button">Learn More</button>
           </div>
         </div>
-      </div>
-      <div className="cardcollection">
+
         <div className="card1">
           <div className="container">
             <img
