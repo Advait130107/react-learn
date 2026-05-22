@@ -1,7 +1,7 @@
 import "./App.css";
 import "./index.css";
-
 import Card from "./Card";
+
 function App() {
   return (
     <>
@@ -25,25 +25,21 @@ function App() {
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
-
         <Card
           name="name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
-
         <Card
           name="name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
-
         <Card
           name="name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
-
         <Card
           name="name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
