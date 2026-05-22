@@ -47,7 +47,7 @@ function App() {
         />
       </div>
       <div className="footer">
-        <p>Copyright 2024 Your Company. All rights reserved.</p>
+        <p>Copyright @ 2026 , All rights reserved.</p>
       </div>
     </>
   );
