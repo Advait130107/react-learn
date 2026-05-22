@@ -6,7 +6,11 @@ function Card({ name, image, description }) {
           className="img1"
           src={image}
           alt={name}
-          onClick={() => window.open({ image })}
+          onClick={() =>
+            window.open(
+              "https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png",
+            )
+          }
         />
       </div>
 
