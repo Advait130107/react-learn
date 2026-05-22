@@ -10,7 +10,9 @@ function Card({ name, image, description }) {
 
         <p>{description}</p>
 
-        <button className="button">Learn More</button>
+        <button className="button" onClick={() => setShowBox(true)}>
+          Learn More
+        </button>
       </div>
     </div>
   );
