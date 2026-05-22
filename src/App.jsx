@@ -20,6 +20,7 @@ function App() {
             />
           </div>
           <div className="aboutimg1">
+            <h2 className="name">Name</h2>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto totam
             illum eaque soluta dolore. Nulla suscipit fugit ut sit ex itaque
             dolorum praesentium? Voluptate blanditiis inventore ea, animi
@@ -36,39 +37,7 @@ function App() {
             />
           </div>
           <div className="aboutimg1">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto totam
-            illum eaque soluta dolore. Nulla suscipit fugit ut sit ex itaque
-            dolorum praesentium? Voluptate blanditiis inventore ea, animi
-            adipisci iusto!
-            <button className="button">Learn More</button>
-          </div>
-        </div>
-
-        <div className="card1">
-          <div className="container">
-            <img
-              className="img1"
-              src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
-              alt="img 1"
-            />
-          </div>
-          <div className="aboutimg1">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto totam
-            illum eaque soluta dolore. Nulla suscipit fugit ut sit ex itaque
-            dolorum praesentium? Voluptate blanditiis inventore ea, animi
-            adipisci iusto!
-            <button className="button">Learn More</button>
-          </div>
-        </div>
-        <div className="card1">
-          <div className="container">
-            <img
-              className="img1"
-              src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
-              alt="img 1"
-            />
-          </div>
-          <div className="aboutimg1">
+            <h2 className="name">Name</h2>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto totam
             illum eaque soluta dolore. Nulla suscipit fugit ut sit ex itaque
             dolorum praesentium? Voluptate blanditiis inventore ea, animi
@@ -86,6 +55,7 @@ function App() {
             />
           </div>
           <div className="aboutimg1">
+            <h2 className="name">Name</h2>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto totam
             illum eaque soluta dolore. Nulla suscipit fugit ut sit ex itaque
             dolorum praesentium? Voluptate blanditiis inventore ea, animi
@@ -102,6 +72,42 @@ function App() {
             />
           </div>
           <div className="aboutimg1">
+            <h2 className="name">Name</h2>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto totam
+            illum eaque soluta dolore. Nulla suscipit fugit ut sit ex itaque
+            dolorum praesentium? Voluptate blanditiis inventore ea, animi
+            adipisci iusto!
+            <button className="button">Learn More</button>
+          </div>
+        </div>
+
+        <div className="card1">
+          <div className="container">
+            <img
+              className="img1"
+              src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
+              alt="img 1"
+            />
+          </div>
+          <div className="aboutimg1">
+            <h2 className="name">Name</h2>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto totam
+            illum eaque soluta dolore. Nulla suscipit fugit ut sit ex itaque
+            dolorum praesentium? Voluptate blanditiis inventore ea, animi
+            adipisci iusto!
+            <button className="button">Learn More</button>
+          </div>
+        </div>
+        <div className="card1">
+          <div className="container">
+            <img
+              className="img1"
+              src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
+              alt="img 1"
+            />
+          </div>
+          <div className="aboutimg1">
+            <h2 className="name">Name</h2>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto totam
             illum eaque soluta dolore. Nulla suscipit fugit ut sit ex itaque
             dolorum praesentium? Voluptate blanditiis inventore ea, animi
