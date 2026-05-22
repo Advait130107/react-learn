@@ -7,7 +7,9 @@ function App() {
       <div className="header">
         <h3>About Our Experts</h3>
         <p>
-          Meet our talented professionals who help us build amazing experiences
+          {" "}
+          Meet our talented professionals who help us create amazing
+          experiences.
         </p>
       </div>
       <div className="cardcollection">
