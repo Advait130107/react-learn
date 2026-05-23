@@ -1,5 +1,5 @@
 import "./App.css";
-import "./index.css";
+
 import Card from "./Card";
 
 function App() {
@@ -25,27 +25,31 @@ function App() {
           name="Name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
-          moreinfo="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
+          moreinfo="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque. lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque.lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque. lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque.  lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
         <Card
           name="Name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
+          moreinfo="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque. lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque.lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque. lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque.  lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
         <Card
           name="Name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
+          moreinfo="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque. lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque.lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque. lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque.  lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
         <Card
           name="Name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
+          moreinfo="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque. lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque.lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque. lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque.  lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
         <Card
           name="Name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
+          moreinfo="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque. lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque.lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque. lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque.  lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
       </div>
       <div className="footer">
