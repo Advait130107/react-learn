@@ -31,6 +31,7 @@ body {
   justify-content: center;
   gap: 30px;
   padding: 30px;
+  align-items: flex-start;
 }
 
 .card1 {
