@@ -1,16 +1,16 @@
-function Card({ name, image, description }) {
+import { useState } from "react";
+
+function Card({ name, image, description, moreinfo }) {
+  const [showMore, setShowMore] = useState(false);
+
   return (
-    <div className="card1">
+    <div className={`card1 ${showMore ? "expandCard" : ""}`}>
       <div className="container">
         <img
           className="img1"
           src={image}
           alt={name}
-          onClick={() =>
-            window.open(
-              "https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png",
-            )
-          }
+          onClick={() => window.open(image)}
         />
       </div>
 
@@ -19,7 +19,17 @@ function Card({ name, image, description }) {
 
         <p>{description}</p>
 
-        <button className="button">Learn More</button>
+        {showMore && (
+          <div className="moreInfo">
+            <p>{moreinfo}</p>
+          </div>
+        )}
+
+        <button className="button" onClick={() => setShowMore(true)}>
+          Learn More
+        </button>
+
+        <button onClick={() => setShowMore(false)}>Show Less</button>
       </div>
     </div>
   );

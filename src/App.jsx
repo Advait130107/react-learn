@@ -19,6 +19,7 @@ function App() {
           name="Name"
           image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
+          moreinfo="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
         <Card
           name="Name"
