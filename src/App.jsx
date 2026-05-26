@@ -17,7 +17,7 @@ function App() {
       <div className="cardcollection">
         <Card
           name="Name is name"
-          image="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG-Picture.png"
+          image="/public/images.jpg"
           description="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
           moreinfo="lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque. lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque.lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque. lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque.  lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, cumque."
         />
